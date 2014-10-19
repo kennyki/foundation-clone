@@ -30,3 +30,4 @@ The client is mounted at /app (i.e. http://localhost:3000/app) while the server 
 1. Unit test of comment directive
 1. Complete build (concatenation & minification) -  there's minor problem with it
 1. I18N
+1. Deploy to the cloud
