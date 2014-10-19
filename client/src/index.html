@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html ng-app="foundation" ng-controller="AppController">
+  <head>
+    <title ng-bind="pageTitle"></title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- compiled CSS --><% styles.forEach( function ( file ) { %>
+    <link rel="stylesheet" type="text/css" href="<%= file %>" /><% }); %>
+  </head>
+  <body>
+
+    <div class="navbar navbar-static-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <div class="navbar-brand">
+            <a href="#/" class="navbar-link logo" ng-bind="appTitle"></a>
+          </div>
+        </div>
+        <a class='facebook pull-right' href='http://www.facebook.com/pages/Foundation/121495347950603'></a>
+        <a class='twitter pull-right' href='http://twitter.com/foundationkr'></a>
+      </div>
+    </div>
+
+    <div class="container-fluid" ui-view="main"></div>
+
+    <!-- compiled JavaScript --><% scripts.forEach( function ( file ) { %>
+    <script type="text/javascript" src="<%= file %>"></script><% }); %>
+  </body>
+</html>

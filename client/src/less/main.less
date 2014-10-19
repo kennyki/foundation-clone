@@ -1,0 +1,105 @@
+/**
+ * This is the main application stylesheet. It should include or import all
+ * stylesheets used throughout the application as this is the only stylesheet in
+ * the Grunt configuration that is automatically processed.
+ */
+
+
+/**
+ * First, we include the Twitter Bootstrap LESS files. Only the ones used in the
+ * project should be imported as the rest are just wasting space.
+ */
+
+@import '../../vendor/bootstrap/less/bootstrap.less';
+
+
+@import 'bootstrap.less';
+
+
+/**
+ * This is our main variables file. We must include it last so we can overwrite any variable
+ * definitions in our imported stylesheets.
+ */
+
+@import 'variables.less';
+
+
+/**
+ * Typography
+ */
+
+code, pre, .pre {
+  padding: 5px;
+  margin: 10px 0;
+  background-color: #EFEFEF;
+  border: 1px solid #DADADA;
+  border-radius: 3px;
+}
+
+code {
+  padding: 0 3px;
+}
+
+pre {
+  margin: 10px 0;
+  padding: 5px;
+}
+
+/* Global styles */
+body {
+  background: url('/app/assets/background-philiprosedale-2.jpg') no-repeat #333;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+a.logo {
+  &,
+  &:visited {
+    background: url('/app/assets/logo.png') no-repeat;
+    width: 250px;
+    height: 29px;
+    display: block;
+    text-indent: -9999px;
+    /* to mimic the original site */
+    margin-left: @logo-margin-top - (@grid-gutter-width / 2);
+  }
+  &:hover {
+    background-position-y: -49px;
+  }
+}
+
+a.twitter {
+  margin-top: 30px;
+  width: 96px;
+  height: 23px;
+  background: url('/app/assets/twitter-logo.png') no-repeat;
+  display: inline-block;
+
+  &:hover {
+    background-position-y: -23px;
+  }
+}
+
+a.facebook {
+  margin: 30px 0 0 20px;
+  width: 103px;
+  height: 23px;
+  background: url('/app/assets/facebook-logo.png') no-repeat;
+  display: inline-block;
+
+  &:hover {
+    background-position-y: -23px;
+  }
+}
+
+/**
+ * Now that all app-wide styles have been applied, we can load the styles for
+ * all the submodules and components we are using. 
+ *
+ * TODO: In a later version of this boilerplate, I'd like to automate this.
+ */
+
+@import '../app/home/home.less';
+

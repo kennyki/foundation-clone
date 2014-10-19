@@ -1,0 +1,322 @@
+[  
+   {  
+      "number":40,
+      "title":"Dennis Crowley",
+      "description":"About the new Foursquare as well as splitting off check-ins into a new app called Swarm.",
+      "image_url":"images/video-denniscrowley-2.jpg",
+      "thubmnail_image_url":"images/small-denniscrowley-2.jpg",
+      "youtube_url":"http://www.youtube.com/v/spZePQW_qU8&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":39,
+      "title":"Anthony Casalena",
+      "description":"Squarespace founder and CEO provides a fascinating look at Squarespace and more.",
+      "image_url":"images/video-anthonycasalena.jpg",
+      "thubmnail_image_url":"images/small-anthonycasalena.jpg",
+      "youtube_url":"http://www.youtube.com/v/wIuHaHjpKIM&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":38,
+      "title":"Jackson Palmer",
+      "description":"The brains behind the fast-growing cryptocurrency known as Dogecoin.",
+      "image_url":"images/video-jacksonpalmer.jpg",
+      "thubmnail_image_url":"images/small-jacksonpalmer.jpg",
+      "youtube_url":"http://www.youtube.com/v/4xzfjOPJ3-8&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":37,
+      "title":"David Byttow",
+      "description":"A revealing conversation Secret's co-founder David Byttow. ",
+      "image_url":"images/video-davidbyttow.jpg",
+      "thubmnail_image_url":"images/small-davidbyttow.jpg",
+      "youtube_url":"http://www.youtube.com/v/7PmBk7hgUqg&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":36,
+      "title":"Tony Fadell",
+      "description":"Nest founder and CEO Tony Fadell on his entrepreneurial roots, and more.",
+      "image_url":"images/video-tonyfadell.jpg",
+      "thubmnail_image_url":"images/small-tonyfadell.jpg",
+      "youtube_url":"http://www.youtube.com/v/IYj5X_dE2U8&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":35,
+      "title":"Brian Armstrong",
+      "description":"Coinbase founder Brian Armstrong on Bitcoin and his first Android project.",
+      "image_url":"images/video-brianarmstrong.jpg",
+      "thubmnail_image_url":"images/small-brianarmstrong.jpg",
+      "youtube_url":"http://www.youtube.com/v/ZwG1roO70co&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":34,
+      "title":"Matt Galligan",
+      "description":"Entrepreneur and Circa founder Matt Galligan about the concept of breaking news.",
+      "image_url":"images/video-mattgalligan.jpg",
+      "thubmnail_image_url":"images/small-mattgalligan.jpg",
+      "youtube_url":"http://www.youtube.com/v/Xf6nBkP4bgY&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":33,
+      "title":"David Copperfield",
+      "description":"David explains how he combines magic with storytelling. ",
+      "image_url":"images/video-davidcopperfield.jpg",
+      "thubmnail_image_url":"images/small-davidcopperfield.jpg",
+      "youtube_url":"http://www.youtube.com/v/6GEDsRMBd98&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":32,
+      "title":"Phil Libin",
+      "description":"Phil Libin discusses his views on the \"cloud\" moniker and Evernote's plans.",
+      "image_url":"images/video-phillibin.jpg",
+      "thubmnail_image_url":"images/small-phillibin.jpg",
+      "youtube_url":"http://www.youtube.com/v/EzhIGMkyXYc&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":31,
+      "title":"Ev Williams",
+      "description":"Talking candidly about his experiences building Blogger, Twitter, and Medium.",
+      "image_url":"images/video-evwilliams.jpg",
+      "thubmnail_image_url":"images/small-evwilliams.jpg",
+      "youtube_url":"http://www.youtube.com/v/-q-P5_lMPEk&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":30,
+      "title":"Jim Gilliam",
+      "description":"In the newest episode, I talk with NationBuilder founder Jim Gilliam. ",
+      "image_url":"images/video-jimgilliam.jpg",
+      "thubmnail_image_url":"images/small-jimgilliam.jpg",
+      "youtube_url":"http://www.youtube.com/v/T99_3TNMmgo&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":29,
+      "title":"Chad Hurley",
+      "description":"Chad Hurley, co-founder of YouTube, and founder of AVOS. ",
+      "image_url":"images/video-chadhurley.jpg",
+      "thubmnail_image_url":"images/small-chadhurley.jpg",
+      "youtube_url":"http://www.youtube.com/v/l56Hw5H-DEI&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":28,
+      "title":"Robyn Sue Fisher",
+      "description":"Robyn Sue explains how she built a solid alumni network at the Stanford d.school.",
+      "image_url":"images/video-robynsuefisher.jpg",
+      "thubmnail_image_url":"images/small-robynsuefisher.jpg",
+      "youtube_url":"http://www.youtube.com/v/8Z_-dV9C78k&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":27,
+      "title":"Hosain Rahman",
+      "description":"Kevin talks with Jawbone CEO and Founder Hosain Rahman. ",
+      "image_url":"images/video-hosainrahman.jpg",
+      "thubmnail_image_url":"images/small-hosainrahman.jpg",
+      "youtube_url":"http://www.youtube.com/v/p-Rcb6Wl1OY&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":26,
+      "title":"Dave Morin",
+      "description":"Kevin headed over to the Path office to sit down with founder Dave Morin.",
+      "image_url":"images/video-davemorin.jpg",
+      "thubmnail_image_url":"images/small-davemorin.jpg",
+      "youtube_url":"http://www.youtube.com/v/zhPIOi-oRdk&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":25,
+      "title":"Tony Hsieh",
+      "description":"Tony about entrepreneurship, fostering corporate culture, and his latest project.",
+      "image_url":"images/video-tonyhsieh.jpg",
+      "thubmnail_image_url":"images/small-tonyhsieh.jpg",
+      "youtube_url":"http://www.youtube.com/v/rmkIcR7AvqQ&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":24,
+      "title":"Melody McCloskey",
+      "description":"Melody McCloskey is the founder of StyleSeat, the network of top beauty professionals.",
+      "image_url":"images/video-melodymccloskey.jpg",
+      "thubmnail_image_url":"images/small-melodymccloskey.jpg",
+      "youtube_url":"http://www.youtube.com/v/7jwHz7NcI0g&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":23,
+      "title":"Ben Horowitz",
+      "description":"Ben Horowitz, co-founder of Opsware and now General Partner at Andreessen Horowitz.",
+      "image_url":"images/video-benhorowitz.jpg",
+      "thubmnail_image_url":"images/small-benhorowitz.jpg",
+      "youtube_url":"http://www.youtube.com/v/j4k7UebvnFU&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":22,
+      "title":"Tom Conrad",
+      "description":"Tom Conrad, the CTO of Pandora, on the inspiration for reinventing the radio.",
+      "image_url":"images/video-tomconrad.jpg",
+      "thubmnail_image_url":"images/small-tomconrad.jpg",
+      "youtube_url":"http://www.youtube.com/v/2xNjYhynDPI&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":21,
+      "title":"Matt Rogers",
+      "description":"Matt Rogers is the co-founder of Nest, showing off the reinvented Nest Learning Thermostat.",
+      "image_url":"images/video-mattrogers.jpg",
+      "thubmnail_image_url":"images/small-mattrogers.jpg",
+      "youtube_url":"http://www.youtube.com/v/HegU77X6I2A&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":20,
+      "title":"Elon Musk",
+      "description":"Elon Musk is the founder of Tesla, SpaceX and PayPal.",
+      "image_url":"images/video-elonmusk.jpg",
+      "thubmnail_image_url":"images/small-elonmusk.jpg",
+      "youtube_url":"http://www.youtube.com/v/L-s_3b5fRd8&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":19,
+      "title":"Om Malik",
+      "description":"Om Malik is the founder of GigaOM, and a venture partner at True Ventures.",
+      "image_url":"images/video-ommalik.jpg",
+      "thubmnail_image_url":"images/small-ommalik.jpg",
+      "youtube_url":"http://www.youtube.com/v/w-hCbZAUCd4&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":18,
+      "title":"Sahil Lavingia",
+      "description":"Sahil Lavingia was an early employee at Pinterest. Now he is working on Gumroad.",
+      "image_url":"images/video-sahillavingia.jpg",
+      "thubmnail_image_url":"images/small-sahillavingia.jpg",
+      "youtube_url":"http://www.youtube.com/v/m0IiiFggv8A&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":17,
+      "title":"Scott Harrison",
+      "description":"Scott is the founder of charity: water, bringing clean and safe water to people in need.",
+      "image_url":"images/video-scottharrison.jpg",
+      "thubmnail_image_url":"images/small-scottharrison.jpg",
+      "youtube_url":"http://www.youtube.com/v/yPLcMSpYisg&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":16,
+      "title":"Kevin Systrom",
+      "description":"Kevin is the founder Instagram, the popular photo sharing app for the iPhone.",
+      "image_url":"images/video-kevinsystrom.jpg",
+      "thubmnail_image_url":"images/small-kevinsystrom.jpg",
+      "youtube_url":"http://www.youtube.com/v/nld8B9l1aRE&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":15,
+      "title":"Tim Ferriss",
+      "description":"Tim Ferriss is the author of The 4-Hour Workweek and The 4-Hour Body.",
+      "image_url":"images/video-timferriss.jpg",
+      "thubmnail_image_url":"images/small-timferriss.jpg",
+      "youtube_url":"http://www.youtube.com/v/ccFYnEGWoOc&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":14,
+      "title":"Ryan Carson",
+      "description":"Ryan Carson is the founder of Future of Web Apps. He recently started Treehouse.",
+      "image_url":"images/video-ryancarson.jpg",
+      "thubmnail_image_url":"images/small-ryancarson.jpg",
+      "youtube_url":"http://www.youtube.com/v/TEjTRz6ayTs&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":13,
+      "title":"John Ham",
+      "description":"John Ham is the founder and CEO UStream, the leading live interactive broadcast platform.",
+      "image_url":"images/video-johnham.jpg",
+      "thubmnail_image_url":"images/small-johnham.jpg",
+      "youtube_url":"http://www.youtube.com/v/QmmiI9Sw5Jc&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":12,
+      "title":"Leah Busque",
+      "description":"Leah is the founder of TaskRabbit, a marketplace helping you connect with people to get things done.",
+      "image_url":"images/video-leahbusque.jpg",
+      "thubmnail_image_url":"images/small-leahbusque.jpg",
+      "youtube_url":"http://www.youtube.com/v/4vmfcxR0Frw&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":11,
+      "title":"John Borthwick",
+      "description":"John is the CEO of Betaworks, who invested in and incubated startups like Kickstarter, GroupMe, bit.ly.",
+      "image_url":"images/video-johnborthwick.jpg",
+      "thubmnail_image_url":"images/small-johnborthwick.jpg",
+      "youtube_url":"http://www.youtube.com/v/vuWAQrKNgqU&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":10,
+      "title":"Dennis Crowley",
+      "description":"Dennis is the co-founder and CEO of Foursquare, the check-in app that evolved from Dodgeball.",
+      "image_url":"images/video-denniscrowley.jpg",
+      "thubmnail_image_url":"images/small-denniscrowley.jpg",
+      "youtube_url":"http://www.youtube.com/v/ijOIibM4L7I&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":9,
+      "title":"Jason Goldberg",
+      "description":"Jason Goldberg is the founder and CEO of Fab.com, a deal site for design lovers.",
+      "image_url":"images/video-jasongoldberg.jpg",
+      "thubmnail_image_url":"images/small-jasongoldberg.jpg",
+      "youtube_url":"http://www.youtube.com/v/JDZTmwnqks4&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":8,
+      "title":"Philip Rosedale",
+      "description":"Philip is the founder of SecondLife. He gives us an update on his new business, Coffee and Power.",
+      "image_url":"images/video-philiprosedale-2.jpg",
+      "thubmnail_image_url":"images/small-philiprosedale-2.jpg",
+      "youtube_url":"http://www.youtube.com/v/y_8skcWUUiM&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":7,
+      "title":"Chris Sacca",
+      "description":"In addition to being an early investor in Twitter, Chris is the founder of Lowercase Capital.",
+      "image_url":"images/video-chrissacca.jpg",
+      "thubmnail_image_url":"images/small-chrissacca.jpg",
+      "youtube_url":"http://www.youtube.com/v/Q6NpHbMFaQ8&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":6,
+      "title":"Jesse Jacobs",
+      "description":"Turning away from tech after the dot-com boom, Jesse founded Samovar Tea Lounge.",
+      "image_url":"images/video-jessejacobs.jpg",
+      "thubmnail_image_url":"images/small-jessejacobs.jpg",
+      "youtube_url":"http://www.youtube.com/v/Cc4PbJrT1rs&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":5,
+      "title":"Brian Wong",
+      "description":"After leaving Digg, the then 19 years old Brian founded kiip to reinvent mobile ads.",
+      "image_url":"images/video-brianwong.jpg",
+      "thubmnail_image_url":"images/small-brianwong.jpg",
+      "youtube_url":"http://www.youtube.com/v/cySqyMfpKeM&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":4,
+      "title":"Tony Conrad",
+      "description":"In addition to about.me, Tony is a member of the founding team of True Ventures.",
+      "image_url":"images/video-tonyconrad.jpg",
+      "thubmnail_image_url":"images/small-tonyconrad.jpg",
+      "youtube_url":"http://www.youtube.com/v/lCkzTZvKpP4&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":3,
+      "title":"Philip Rosedale",
+      "description":"Founder of SecondLife. Philip talks about his latest startup LoveMachine/Coffee & Power.",
+      "image_url":"images/video-philiprosedale.jpg",
+      "thubmnail_image_url":"images/small-philiprosedale.jpg",
+      "youtube_url":"http://www.youtube.com/v/jg43s9yPsaI&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":2,
+      "title":"Jeff Smith",
+      "description":"A serial entrepreneur, the co-founder and CEO of Smule, the company behind I am T-Pain.",
+      "image_url":"images/video-jeffsmith.jpg",
+      "thubmnail_image_url":"images/small-jeffsmith.jpg",
+      "youtube_url":"http://www.youtube.com/v/HZLNyrFow5Q&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   },
+   {  
+      "number":1,
+      "title":"Jack Dorsey",
+      "description":"In addition to being the creator of Twitter, Jack is the co-founder of Square.",
+      "image_url":"images/video-jackdorsey.jpg",
+      "thubmnail_image_url":"images/small-jackdorsey.jpg",
+      "youtube_url":"http://www.youtube.com/v/DQy_HFHOZug&hd=1&autoplay=1&version=3&autohide=1&showinfo=0"
+   }
+]

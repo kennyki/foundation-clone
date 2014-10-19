@@ -1,0 +1,35 @@
+<div class='current-episode row'>
+  <div class='col-sm-8 col-sm-offset-2 text-center'>
+    <div ng-if='currentEpisode'>
+      <div ng-if='startPlaying' class='embed-responsive embed-responsive-16by9'>
+        <iframe class='embed-responsive-item' allowfullscreen ng-src='{{trustUrl(currentEpisode.youtube_url)}}'></iframe>
+      </div>
+      <a ng-if='!startPlaying' href ng-click='play()'>
+        <img class='control' src='/app/assets/play.png'>
+        <img class='preview' ng-src='/{{currentEpisode.image_url}}'>
+      </a>
+      <div class='caption text-left text-gray-light'>
+        <h1 ng-init='titleBlocks = getCurrentEpisodeTitleBlocks()'>
+          {{titleBlocks[0]}} <span class='highlight text-white'>{{titleBlocks[1]}}</span>
+        </h1>
+        <p>{{currentEpisode.description}}</p>
+      </div>
+    </div>
+    <div ng-if='!currentEpisode'>
+      <div class='dummy-episode'></div>
+    </div>
+  </div>
+</div>
+<div class='episodes' tinyscrollbar='{axis: "x", wheel: false}' tinyscrollbar-watch='episodes'>
+  <div class='episode' ng-repeat='episode in episodes'>
+    <a class='thumbnail' ng-class='{"active": currentEpisodeNumber == episode.number}' href ui-sref='home({episodeNumber: episode.number})'>
+      <img ng-src='/{{episode.thubmnail_image_url}}'>
+      <div class='episode-number text-white'>{{episode.number}}</div>
+      <button class='btn btn-primary watch-btn'>Watch</button>
+      <div class='caption'>
+        <h4>{{episode.title}}</h4>
+        <small class='text-muted'>{{episode.description}}</small>
+      </div>
+    </a>
+  </div>
+</div>

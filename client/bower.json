@@ -1,0 +1,15 @@
+{
+  "name": "foundation-clone",
+  "version": "0.1.0",
+  "devDependencies": {
+    "angular": "~1.2",
+    "angular-mocks": "~1.2",
+    "bootstrap": "~3.2",
+    "angular-bootstrap": "~0.10.0",
+    "angular-ui-router": "~0.2",
+    "AngularJS-Toaster": "https://github.com/jirikavi/AngularJS-Toaster.git#~0.4.7",
+    "ngprogress-lite": "^1.0.5",
+    "tinyscrollbar": "https://raw.githubusercontent.com/wieringen/tinyscrollbar/master/lib/tinyscrollbar.js"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html ng-app="foundation" ng-controller="AppController">
+  <head>
+    <title ng-bind="pageTitle"></title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- compiled CSS -->
+    <link rel="stylesheet" type="text/css" href="vendor/AngularJS-Toaster/toaster.css" />
+    <link rel="stylesheet" type="text/css" href="vendor/ngprogress-lite/ngprogress-lite.css" />
+    <link rel="stylesheet" type="text/css" href="vendor/tinyscrollbar/index.css" />
+    <link rel="stylesheet" type="text/css" href="assets/foundation-clone-0.1.0.css" />
+  </head>
+  <body>
+
+    <div class="navbar navbar-static-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <div class="navbar-brand">
+            <a href="#/" class="navbar-link logo" ng-bind="appTitle"></a>
+          </div>
+        </div>
+        <a class='facebook pull-right' href='http://www.facebook.com/pages/Foundation/121495347950603'></a>
+        <a class='twitter pull-right' href='http://twitter.com/foundationkr'></a>
+      </div>
+    </div>
+
+    <div class="container-fluid" ui-view="main"></div>
+
+    <!-- compiled JavaScript -->
+    <script type="text/javascript" src="vendor/angular/angular.js"></script>
+    <script type="text/javascript" src="vendor/angular-animate/angular-animate.js"></script>
+    <script type="text/javascript" src="vendor/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+    <script type="text/javascript" src="vendor/angular-ui-router/release/angular-ui-router.js"></script>
+    <script type="text/javascript" src="vendor/AngularJS-Toaster/toaster.js"></script>
+    <script type="text/javascript" src="vendor/ngprogress-lite/ngprogress-lite.js"></script>
+    <script type="text/javascript" src="vendor/tinyscrollbar/index.js"></script>
+    <script type="text/javascript" src="src/app/app.js"></script>
+    <script type="text/javascript" src="src/app/episode/episode.js"></script>
+    <script type="text/javascript" src="src/app/home/home.js"></script>
+    <script type="text/javascript" src="src/common/tinyscrollbar/tinyscrollbar.js"></script>
+    <script type="text/javascript" src="templates-common.js"></script>
+    <script type="text/javascript" src="templates-app.js"></script>
+  </body>
+</html>
