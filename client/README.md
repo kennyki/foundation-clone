@@ -9,7 +9,11 @@ $ bower install
 $ grunt watch
 ```
 
-## Dist
+## Test
+
+All tests are contained in *.spec.js for each module and they're located at the respective folder. The command `grunt watch` will execute all tests.
+
+## Distribute
 
 ```sh
 $ grunt
