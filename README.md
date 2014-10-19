@@ -27,7 +27,6 @@ The client is mounted at /app (i.e. http://localhost:3000/app) while the server 
 ## TODO
 
 1. Scroll with hover on start/end of video list
-1. Vertical alignment of video thumbnails
 1. Smoother loading of the components
 1. Unit test of comment directive
 1. Complete build (concatenation & minification) -  there's minor problem with it
