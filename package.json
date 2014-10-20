@@ -1,9 +1,13 @@
 {
   "name": "foundation-clone-server",
-  "version": "0.1.0",
+  "version": "0.1.0-1",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node app.js"
   },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "subdomain": "foundation-clone",
   "dependencies": {
     "express": "~4.9.0",
     "body-parser": "~1.8.1",

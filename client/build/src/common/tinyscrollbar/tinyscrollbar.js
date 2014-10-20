@@ -26,7 +26,7 @@ angular.module('tinyscrollbar', [])
           $timeout(function() {
             // deal with dynamic & live changes
             scrollbar.update();
-          }, 100);
+          }, 3000); // TODO: this is a quick hack to deal with the delay of scrollWidth changes, gotta find better fix
         });
       }
     }
