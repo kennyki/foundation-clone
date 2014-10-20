@@ -1,5 +1,5 @@
 /**
- * foundation-clone - v0.1.0 - 2014-10-20
+ * foundation-clone - v0.1.0 - 2014-10-21
  * https://github.com/kennyki/foundation-clone
  *
  * Copyright (c) 2014 Kenny ki <knyki.12@gmail.com>
