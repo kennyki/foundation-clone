@@ -1,7 +1,12 @@
 {
-  "author": "Kenny ki <knyki.12@gmail.com",
+  "author": "Kenny ki <knyki.12@gmail.com>",
   "name": "foundation-clone",
   "version": "0.1.0",
+  "homepage": "https://github.com/kennyki/foundation-clone",
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.githubusercontent.com/kennyki/foundation-clone/master/client/LICENSE"
+  },
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",

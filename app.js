@@ -21,7 +21,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 // setup a special path for the html5 client
-app.use('/app', express.static(path.join(__dirname, 'client', 'build')));
+app.use('/app', express.static(path.join(__dirname, 'client', (app.get('env') === 'production') ? 'bin' : 'build')));
 
 // API
 app.use('/api/episode', require('./routes/episode'));

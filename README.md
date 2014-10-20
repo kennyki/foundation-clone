@@ -17,6 +17,8 @@ The client is mounted at /app (i.e. http://localhost:3000/app) while the server 
 1. Clone the repo
 1. CD into the dir
 1. Execute `npm install`
+1. Execute `export NODE_ENV=production`
+  1. For Windows: `set NODE_ENV production`
 1. Execute `node app`
 1. Browse to http://localhost:3000/app
 
@@ -27,5 +29,4 @@ The client is mounted at /app (i.e. http://localhost:3000/app) while the server 
 ## TODO
 
 1. Bug: scrollbar is disabled if there's delay in rendering of the thumbnails
-1. Complete build (concatenation & minification) -  there's minor problem with it
 1. I18N
