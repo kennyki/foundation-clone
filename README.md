@@ -26,8 +26,6 @@ The client is mounted at /app (i.e. http://localhost:3000/app) while the server 
 
 ## TODO
 
-1. Scroll with hover on start/end of video list
 1. Bug: scrollbar is disabled if there's delay in rendering of the thumbnails
-1. Unit test of common directive
 1. Complete build (concatenation & minification) -  there's minor problem with it
 1. I18N

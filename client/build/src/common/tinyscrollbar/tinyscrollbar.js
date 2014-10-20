@@ -1,5 +1,5 @@
 angular.module('tinyscrollbar', [])
-// TODO: test
+
 .directive('tinyscrollbar', function($timeout) {
 
   var directive = {
@@ -14,15 +14,15 @@ angular.module('tinyscrollbar', [])
     transclude: true,
 
     scope: {
-      opts: '&tinyscrollbar',
-      watch: '@tinyscrollbarWatch'
+      opts: '&tinyscrollbar'
     },
 
     link: function link(scope, element, attrs) {
-      var scrollbar = tinyscrollbar(element[0], scope.opts() || {});
+      var opts = scope.opts && scope.opts();
+      var scrollbar = tinyscrollbar(element[0], opts || {});
 
-      if (scope.watch) {
-        scope.$watch(scope.watch, function() {
+      if (attrs.tinyscrollbarWatch) {
+        scope.$watch(attrs.tinyscrollbarWatch, function() {
           $timeout(function() {
             // deal with dynamic & live changes
             scrollbar.update();
