@@ -6540,6 +6540,10 @@ a.facebook:hover {
 .current-episode .control {
   position: absolute;
 }
+.current-episode .preview,
+.current-episode .control {
+  max-width: 100%;
+}
 .current-episode .caption {
   padding: 0 35px;
 }

@@ -3,7 +3,7 @@ angular.module('templates-app', ['home/home.tpl.html']);
 angular.module("home/home.tpl.html", []).run(["$templateCache", function($templateCache) {
   $templateCache.put("home/home.tpl.html",
     "<div class='current-episode row'>\n" +
-    "  <div class='col-sm-8 col-sm-offset-2 text-center'>\n" +
+    "  <div class='col-md-8 col-md-offset-2 text-center'>\n" +
     "    <div ng-if='currentEpisode'>\n" +
     "      <div ng-if='startPlaying' class='embed-responsive embed-responsive-16by9'>\n" +
     "        <iframe class='embed-responsive-item' allowfullscreen ng-src='{{trustUrl(currentEpisode.youtube_url)}}'></iframe>\n" +
