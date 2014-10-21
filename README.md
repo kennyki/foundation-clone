@@ -26,7 +26,14 @@ The client is mounted at /app (i.e. http://localhost:3000/app) while the server 
 
 1. Read ./client/README.md
 
-## TODO
+## Differences with original site
+1. It is responsive to screen size changes
+1. (Thus) it can be viewed in mobile browsers
+1. It doesn't have the hover-to-scroll function
+  1. This is because hover-and-do-something is not a good UX practice
+
+## Areas to improve
 
 1. Bug: scrollbar is disabled if there's delay in rendering of the thumbnails
 1. I18N
+1. Concatenate all images into an image sprite to reduce http calls
