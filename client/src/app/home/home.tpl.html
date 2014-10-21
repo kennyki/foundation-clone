@@ -20,7 +20,7 @@
     </div>
   </div>
 </div>
-<div class='episodes' tinyscrollbar='{axis: "x", wheel: false, scrollInvert: true}' tinyscrollbar-watch='episodes'>
+<div class='episodes' tinyscrollbar='{axis: "x", wheel: true, scrollInvert: true}' tinyscrollbar-watch='episodes'>
   <div class='episode' ng-repeat='episode in episodes'>
     <a class='thumbnail' ng-class='{"active": currentEpisodeNumber == episode.number}' href ui-sref='home({episodeNumber: episode.number})'>
       <img ng-src='/{{episode.thubmnail_image_url}}'>
