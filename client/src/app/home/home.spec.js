@@ -39,7 +39,7 @@ describe('home', function() {
     expect(controller).toBeTruthy();
   }));
 
-  it('should update page title on reset', inject(function() {
+  it('should update page title on reset', inject(function($timeout) {
     var titleUpdated = false;
 
     $scope.$on('title:update', function() {
@@ -47,6 +47,10 @@ describe('home', function() {
     });
 
     $scope.reset();
+
+    $timeout(function() {
+      expect(titleUpdated).toBeTruthy();
+    }, 1000);
   }));
 
   it('should retrieve all episode on reset', inject(function() {
