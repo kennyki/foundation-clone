@@ -9,7 +9,7 @@
     "angular-ui-router": "~0.2",
     "AngularJS-Toaster": "https://github.com/jirikavi/AngularJS-Toaster.git#~0.4.7",
     "ngprogress-lite": "^1.0.5",
-    "tinyscrollbar": "https://raw.githubusercontent.com/wieringen/tinyscrollbar/master/lib/tinyscrollbar.js"
+    "tinyscrollbar": "https://raw.githubusercontent.com/kennyki/tinyscrollbar/master/lib/tinyscrollbar.js"
   },
   "dependencies": {}
 }

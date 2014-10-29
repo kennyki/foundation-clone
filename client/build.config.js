@@ -73,8 +73,7 @@ module.exports = {
     ],
     css: [
       'vendor/AngularJS-Toaster/toaster.css',
-      'vendor/ngprogress-lite/ngprogress-lite.css',
-      'vendor/tinyscrollbar/index.css'
+      'vendor/ngprogress-lite/ngprogress-lite.css'
     ],
     assets: [
       'vendor/bootstrap/fonts/glyphicons-halflings-regular.eot',

@@ -34,6 +34,5 @@ The client is mounted at /app (i.e. http://localhost:3000/app) while the server 
 
 ## Areas to improve
 
-1. Bug: scrollbar is disabled if there's delay in rendering of the thumbnails
 1. I18N
 1. Concatenate all images into an image sprite to reduce http calls

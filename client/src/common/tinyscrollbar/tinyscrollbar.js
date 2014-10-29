@@ -22,11 +22,11 @@ angular.module('tinyscrollbar', [])
       var scrollbar = tinyscrollbar(element[0], opts || {});
 
       if (attrs.tinyscrollbarWatch) {
-        scope.$watch(attrs.tinyscrollbarWatch, function() {
+        scope.$parent.$watch(attrs.tinyscrollbarWatch, function(newVal, oldVal) {
           $timeout(function() {
             // deal with dynamic & live changes
             scrollbar.update();
-          }, 3000); // TODO: this is a quick hack to deal with the delay of scrollWidth changes, gotta find better fix
+          });
         });
       }
     }
